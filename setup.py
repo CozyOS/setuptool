@@ -1,3 +1,5 @@
+#!/usr/local/env python
+
 from setuptools import setup, Extension
 from Cython.Build import cythonize
 
