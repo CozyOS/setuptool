@@ -1,0 +1,6 @@
+cython
+typer
+numpy
+pyfs
+curses
+rich
